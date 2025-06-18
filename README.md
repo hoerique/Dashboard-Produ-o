@@ -1,4 +1,4 @@
-# 🏭 Dashboard de Produção – Análise Operacional e Eficiência Industrial
+# 🏭 Dashboard de Produção
 
 Este projeto apresenta um **dashboard interativo voltado para o controle e análise de produção industrial**, focando em métricas como eficiência operacional, volume produzido, perdas e geração de valor.
 
